@@ -1,3 +1,3 @@
-input_dir = D:\D_drive_BACKUP\MENTOR\Utility\Nokia_IMSI_Counter\Input_data\data.bin_decoded.txt.2020-09-09-165.log.gz
+input_dir = D:\D_drive_BACKUP\MENTOR\Utility\Nokia_IMSI_Counter\Input_data
 output_dir = D:\D_drive_BACKUP\MENTOR\Utility\Nokia_IMSI_Counter\Output_data
-imsi_list = 14000645563299F0,14000634823149F8,14000654250703F8,14000654618249F7
+imsi_list = 14000645563299F0,14000634823149F8,14000654250703F8,14000654618249F7,14000652311526f1,14000624958141f5
